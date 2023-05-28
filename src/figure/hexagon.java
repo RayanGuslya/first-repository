@@ -1,4 +1,4 @@
 package figure;
 //шестиугольник
-public class hexagon {
+public class hexagon extends figure{
 }

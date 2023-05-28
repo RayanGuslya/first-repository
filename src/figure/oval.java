@@ -1,4 +1,4 @@
 package figure;
 //овал
-public class oval {
+public class oval extends figure {
 }

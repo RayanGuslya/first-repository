@@ -1,5 +1,5 @@
 package figure;
 //окружность
-public class Circle {
+public class Circle extends figure {
 
 }

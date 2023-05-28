@@ -1,5 +1,5 @@
 package figure;
 //пятиугольник
-public class pentagon {
+public class pentagon extends figure {
 
 }
